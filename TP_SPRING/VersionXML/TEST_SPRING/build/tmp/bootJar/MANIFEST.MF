@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Start-Class: org.mines.douai.j2ee.cailliezmagnier.YellowJacketMain
+Main-Class: org.springframework.boot.loader.JarLauncher
+
